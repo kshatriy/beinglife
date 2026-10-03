@@ -1,10 +1,7 @@
-# Being Life Website v1
+# Being Life — Natural Theme
 
-Static, responsive one-page website. No build step or server runtime required.
+Static, responsive front-door site for Being Life.
 
-Upload all files to the web root of your hosting provider and point `beinglife.in` to that hosting provider. Enable HTTPS/SSL.
+This version preserves the original content structure and changes only the visual language: warm natural surfaces, forest/sage greens, water/earth tones, organic forms, and a quieter editorial feel.
 
-The site is intentionally a front door to Being Life, not a content library:
-curiosity -> awareness -> connection -> exploration.
-
-Before launch, verify/update the social URLs in `index.html`.
+No build step or JavaScript framework is required.
